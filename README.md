@@ -1,2 +1,3 @@
-# Adonisjs TodoList
+# Adonisjs Todo list
+
 Example using AdonisJs
